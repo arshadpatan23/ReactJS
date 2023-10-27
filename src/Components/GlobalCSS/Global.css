@@ -1,0 +1,17 @@
+
+/*  ---- 4)b) Global and External css in Reactjs -----
+
+
+// EX5:  
+// ANS: */
+
+
+.CSScontainer{
+    height: 90px;
+    width: 100%;
+    border: 2px solid red;
+    background-color: black;
+}
+.content {
+    color: white;
+}

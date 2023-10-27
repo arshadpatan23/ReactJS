@@ -1,0 +1,15 @@
+
+
+/* 3) NavLink Component :  */
+
+/* // NOTE 1: In {NavLink} Component should be use Global css which is "RRouter.css" not a module.css */
+
+/* // NOTE 2: we should import RRouter.css at App.jsx file which is each word have to type not a short cut , LIKE, import "./Components/RRouter.css" */
+
+/* EX21:  */
+
+
+.active{
+
+    color: orangered;
+}
